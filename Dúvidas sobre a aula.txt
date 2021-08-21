@@ -1,0 +1,2 @@
+Oii Debora, tudo bem?
+Para fazer a agenda para entender melhor pedi ajuda para meu amigo que trabalha com programação, ele não fez para mim apenas me auxiliou com algumas dúvidas, porém eu não consegui colocar o formato de data em date e nem os números em int, porém no arquivo de classe que criei pelo StarUml eu criei essas informações, também não sei se o mesmo está totalmente correto
